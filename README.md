@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BehcetAytimur
+De- 👋 Hi, I’m @BehcetAytimur
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -49,7 +49,7 @@ print(mytripler(11))
 
 #Kisa bir süre için anonim bir işlev gerektiğinde lambda işlevlerini kullanmak gerekir.
 
-# Lambda'nın gücü, onları başka bir işlevin içinde anonim bir işlev olarak kullandığınızda daha iyi gösterilir.
+#Lambda'nın gücü, onları başka bir işlevin içinde anonim bir işlev olarak kullandığınızda daha iyi gösterilir.
 
 #Bir argüman alan bir fonksiyon tanımınız olduğunu ve bu argümanın bilinmeyen bir sayı ile çarpılacağını varsayalım, bu durumda lambda'nin gucu ortaya cikmaktadir.
 
